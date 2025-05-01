@@ -20,7 +20,6 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻Eprisma Group**
 - 🌱 I'm currently learning: **📚 A little bit of everything**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 
